@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'setup_settings',
     'setup_template',
     'setup_static',
+    'complete_app',
 ]
 
 MIDDLEWARE = [
